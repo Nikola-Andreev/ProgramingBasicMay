@@ -1,4 +1,4 @@
-package introProgramming;
+package a_introProgramming;
 
 import java.util.Scanner;
 

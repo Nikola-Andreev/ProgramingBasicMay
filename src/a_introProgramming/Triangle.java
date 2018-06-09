@@ -1,4 +1,4 @@
-package introProgramming;
+package a_introProgramming;
 
 public class Triangle {
     public static void main(String[] args) {

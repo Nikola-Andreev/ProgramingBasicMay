@@ -1,4 +1,4 @@
-package simpleCalculations;
+package b_simpleCalculations;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package introProgramming;
+package a_introProgramming;
 
 public class OneToTwenty {
     public static void main(String[] args) {

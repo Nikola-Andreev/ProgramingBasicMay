@@ -1,4 +1,4 @@
-package simpleConditions;
+package c_simpleConditions;
 
 import java.io.BufferedReader;
 import java.io.IOException;
